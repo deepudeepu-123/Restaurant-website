@@ -36,5 +36,5 @@ const Menu = () => {
     </Layout>
   );
 };
-{/*layout*/}
+{}
 export default Menu;
